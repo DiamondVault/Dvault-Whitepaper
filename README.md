@@ -1,2 +1,2 @@
-# Dvault-Whitelist
-Public whitelist document for DiamondVault
+# Dvault-Whitepaper
+Public Whitepaper document for DiamondVault
