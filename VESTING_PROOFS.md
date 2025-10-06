@@ -6,7 +6,7 @@ Due to a technical error in the initial PinkLock implementation, which failed to
 the DiamondVault team has implemented a **corrective re-locking process**. This process involves immediately re-locking the monthly released tokens for an additional 12 months. 
 This action guarantees the originally promised cliff periods (6 months for Team, 2 months for Reserves) and confirms our long-term commitment to the project.
 
-**Last Updated:** [Insert Date of Last Re-Lock, e.g., October 6, 2025]
+**Last Updated:** [October 6, 2025]
 
 ---
 
