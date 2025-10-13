@@ -18,7 +18,7 @@ This action guarantees the originally promised cliff periods (6 months for Team,
 | :--- | :--- | :--- | :--- |
 | **Original Vesting** | Entirety | Aug 2025 - Feb 2027 | [View Lock 1343519](https://www.pinksale.finance/pinklock/bsc/record/1343519) |
 | **Corrective Re-Lock** | Sept 2025 | Sept 2025 - Sept 2026 | [View Lock 1352679](https://www.pinksale.finance/pinklock/bsc/record/1352679) |
-| **Corrective Re-Lock** | Oct 2025 | Oct 2025 - Oct 2026 | **[Link to be added here after the lock]** |
+| **Corrective Re-Lock** | Oct 2025 | Oct 2025 - Oct 2026 | [View Lock 1364546](https://www.pinksale.finance/pinklock/bsc/record/1364546) |
 | **Corrective Re-Lock** | Nov 2025 | Nov 2025 - Nov 2026 | [Link to be added here] |
 | **Corrective Re-Lock** | Dec 2025 | Dec 2025 - Dec 2026 | [Link to be added here] |
 | **Corrective Re-Lock** | Jan 2026 | Jan 2026 - Jan 2027 | [Link to be added here] |
@@ -34,4 +34,4 @@ This action guarantees the originally promised cliff periods (6 months for Team,
 | :--- | :--- | :--- | :--- |
 | **Original Vesting** | Entirety | Aug 2025 - Feb 2027 | [View Lock 1343633](https://www.pinksale.finance/pinklock/bsc/record/1343633) |
 | **Corrective Re-Lock** | Sept 2025 | Sept 2025 - Sept 2026 | [View Lock 1352683](https://www.pinksale.finance/pinklock/bsc/record/1352683) |
-| **Corrective Re-Lock** | Oct 2025 | Oct 2025 - Oct 2026 | **[Link to be added here after the lock]** |
+| **Corrective Re-Lock** | Oct 2025 | Oct 2025 - Oct 2026 | [View Lock 1364552](https://www.pinksale.finance/pinklock/bsc/record/1364552) |
