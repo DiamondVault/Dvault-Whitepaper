@@ -20,7 +20,7 @@ This action guarantees the originally promised cliff periods (6 months for Team,
 | **Corrective Re-Lock** | Sept 2025 | Sept 2025 - Sept 2026 | [View Lock 1352679](https://www.pinksale.finance/pinklock/bsc/record/1352679) |
 | **Corrective Re-Lock** | Oct 2025 | Oct 2025 - Oct 2026 | [View Lock 1364546](https://www.pinksale.finance/pinklock/bsc/record/1364546) |
 | **Corrective Re-Lock** | Nov 2025 | Nov 2025 - Nov 2026 | [View Lock 1386312](https://www.pinksale.finance/pinklock/bsc/record/1386312)|
-| **Corrective Re-Lock** | Dec 2025 | Dec 2025 - Dec 2026 | [Link to be added here] |
+| **Corrective Re-Lock** | Dec 2025 | Dec 2025 - Dec 2026 | [View Lock 1413599](https://www.pinksale.finance/pinklock/bsc/record/1413599)|
 | **Corrective Re-Lock** | Jan 2026 | Jan 2026 - Jan 2027 | [Link to be added here] |
 | **Corrective Re-Lock** | Feb 2026 | Feb 2026 - Feb 2027 | [Link to be added here] |
 
